@@ -47,9 +47,6 @@ The idea behind this app is pretty simple — it's a number guessing game built 
 
 ## 📸 Demo
 
-- ![alt text](image-1.png)
 
 ## 🚀 Stretch Features
 
-- ![alt text](image-2.png)
-![alt text](image.png)
